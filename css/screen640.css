@@ -1,53 +1,48 @@
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 640px) {
   
     footer {
-      width: 50%;
+      width: 100%;
     }
   
     .header {
-      width: 50%;
+      width: 100%;
       float: left;
-      
     }
   
     .header-right {
-      float: right;
       width: auto;
-    }
+      float: right;
+      }
   
     .cont {
       float: left;
       width: auto;
     }
   
-    .bg-image {
-      display: none;
-    }
-  
+     
     .css .css1 {
       float: left;
       width: 50%;
     }
   
     .border {
-      width: 50%;
+      width: 100%;
     }
   
     .text {
-      width: 50%;
+      width: 75%;
+      margin: auto 0 auto 0;
       text-align: center;
-      margin-left: 0px;
-      margin: 0px;
-      padding-bottom: 400px;
-      border-radius: 5px;
+      margin-left: 12%;
     }
   
     .body {
       display: none;
     }
-  
-    
-  
-      
-  
-  
+
+    .container {
+        float: left;
+        margin-left: 12%;
+        width: 75%;
+        
+    }

@@ -1,0 +1,47 @@
+@media screen and (max-width: 640px) {
+  
+  footer {
+    width: 100%;
+  }
+
+  .header {
+    width: 100%;
+    float: left;
+  }
+
+  .header-right {
+    width: auto;
+    float: right;
+  }
+
+  
+  .css {
+    float: left;
+    width: 100%;
+  }
+
+  .border {
+    width: 100%;
+  }
+
+  .text {
+    width: 75%;
+    margin: auto 0 auto 0;
+    text-align: center;
+    margin-left: 12%;
+    padding-bottom: 400px;
+  }
+
+  .body {
+    display: none;
+  }
+
+  .container, .gallery {
+      width: 40%;  
+  }
+
+  #B {
+    margin-left: 30px;
+  }
+  
+  
