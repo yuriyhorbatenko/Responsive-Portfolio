@@ -1,0 +1,53 @@
+@media screen and (max-width: 980px) {
+  
+    footer {
+      width: 50%;
+    }
+  
+    .header {
+      width: 50%;
+      float: left;
+      
+    }
+  
+    .header-right {
+      float: right;
+      width: auto;
+    }
+  
+    .cont {
+      float: left;
+      width: auto;
+    }
+  
+    .bg-image {
+      display: none;
+    }
+  
+    .css .css1 {
+      float: left;
+      width: 50%;
+    }
+  
+    .border {
+      width: 50%;
+    }
+  
+    .text {
+      width: 50%;
+      text-align: center;
+      margin-left: 0px;
+      margin: 0px;
+      padding-bottom: 400px;
+      border-radius: 5px;
+    }
+  
+    .body {
+      display: none;
+    }
+  
+    
+  
+      
+  
+  
