@@ -1,28 +1,24 @@
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 980px) {
   
     footer {
       width: 100%;
     }
   
     .header {
-      width: 75%;
-      float: left;
+        width: 75%;
+        float: left;
+        margin-left: 12%;
     }
   
     .header-right {
       width: auto;
       float: right;
-      }
-  
-    .cont {
-      float: left;
-      width: auto;
     }
   
-     
-    .css .css1 {
+    
+    .css {
       float: left;
-      width: 50%;
+      width: 100%;
     }
   
     .border {
@@ -32,17 +28,22 @@
     .text {
       width: 75%;
       margin: auto 0 auto 0;
-      text-align: center;
+      text-align: left;
       margin-left: 12%;
+      padding-bottom: 500px;
     }
   
     .body {
       display: none;
     }
-
-    .container {
-        float: left;
-        margin-left: 12%;
-        width: 75%;
-        
+  
+    .container, .gallery {
+        width: 40%;  
     }
+  
+    #B {
+      margin-left: 80px;
+      float: left;
+    }
+    
+    
